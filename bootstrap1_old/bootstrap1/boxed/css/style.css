@@ -1,0 +1,27 @@
+#projectname{
+    margin: auto 10rem;
+    color: gray;
+}
+
+#buttonsignin{
+    background-color: rgb(57, 194, 57);
+    color: white;
+    border: none;
+}
+
+#titre{
+    padding: 3rem 10rem;
+    background-color: rgb(241, 233, 233);
+}
+
+.container{
+    margin: 2rem 10rem;
+}
+
+.container .btn{
+    color: black;
+}
+
+footer{
+    margin: 2rem 10rem;
+}
