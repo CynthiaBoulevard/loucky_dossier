@@ -12,7 +12,7 @@
             //Créer trois variables lastname , firstname et age et les initialiser avec les valeurs de votre choix. Attention age est de type entier. Afficher leur contenu.
             $lastname= "Lucie"; 
             $firstname= "Lulu";
-            $age= "33 ans";
+            $age= 33;
             
             echo $lastname;
             echo '<br/>';
